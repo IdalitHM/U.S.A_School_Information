@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">U.S.A School Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">St. Petersburg College</string>
+    <string name="description">School Image</string>
+    <string name="txtAddress">2465 Drew St, Clearwater, Fl 33765</string>
+    <string name="txtPhone">(727) 341-4772</string>
+    <string name="btnShow">Show more</string>
+    <string name="title_activity_information">Information</string>
+</resources>
